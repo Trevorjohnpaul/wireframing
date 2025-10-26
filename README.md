@@ -26,3 +26,13 @@ Key Features:
 -Collaboration and commenting in real-time.
 -Ready-made elements of UI and templates.
 -Simple exportation and assimilation with design processes.
+
+# Advantages of Wireframing in Software Development.
+Wireframing is very relevant to software development as it helps to balance the design concepts and technical realization and teamwork.
+
+Key Benefits:
+
+-Leads the Process of Design: This gives a clear direction to the developers and designers to adhere to.
+-Paves the Way to Communication: Provides mutual understanding between the team and stakeholders.
+-Exposes Usability Problems at an Early Stage: Points out navigation and interaction problems prior to coding.
+-Conserves Time and Resources: helps to avoid expensive design changes in the development.
