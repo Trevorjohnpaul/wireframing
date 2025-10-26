@@ -36,3 +36,9 @@ Key Benefits:
 -Paves the Way to Communication: Provides mutual understanding between the team and stakeholders.
 -Exposes Usability Problems at an Early Stage: Points out navigation and interaction problems prior to coding.
 -Conserves Time and Resources: helps to avoid expensive design changes in the development.
+
+# Real-World Case Study: Wireframing Problematic Usability.
+-This was during a wireframing stage of an e-commerce application whereby the users found it difficult to find a checkout button because it was not properly positioned.
+Navigating it was also made easier because designers redesigned it to be more visible, which increased its conversion rates.
+
+-Conclusion: Wireframing allowed identifying the issues with usability at an early stage, making the process effective in relation to the fixes that allowed achieving a more user-friendly and efficient design and providing the user with a better experience overall.
