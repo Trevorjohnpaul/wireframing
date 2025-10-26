@@ -17,4 +17,12 @@ Low-fidelity wireframes are basic rudimentary drawings with a focus on structure
 # Type of fidelity explanations
 In the link of the prototype the fidelity is a high-fidelity wireframe as it entails coloors, buttons and a clear stractural layout
 
-# 
+# Popular Wireframing Tools
+Some of the tools make the process of wireframing less complex with their user-friendly interface and collaboration capabilities. The most popular ones are Figma, Adobe XD, Balsamiq, and Sketch.
+
+Key Features:
+
+-Drag-and-drop design features.
+-Collaboration and commenting in real-time.
+-Ready-made elements of UI and templates.
+-Simple exportation and assimilation with design processes.
